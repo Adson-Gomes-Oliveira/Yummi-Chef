@@ -1,4 +1,4 @@
-<h2 align=center> Yummi Chef [ REST-API ]</h2>
+<h2 align=center> Yummi Chef </h2>
 
 ### Sobre o Projeto
 <p>Olá seja bem vindo ou bem vinda ao repositório do app de receitas Yummi Chef.</r>  
