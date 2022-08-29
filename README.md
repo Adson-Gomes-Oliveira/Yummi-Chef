@@ -12,23 +12,22 @@
 <br/>
 A Trybe é uma escola de desenvolvimento web que tem 
 comprometimento genuíno com o sucesso profissional das pessoas 
-estudantes. Com o Modelo de Sucesso Compartilhado, quem estuda na 
-Trybe tem a opção de pagar apenas quando já estiver trabalhando.
- 
-São mais de 1500 horas de formação que aborda fundamentos de 
+estudantes.  
+
+São mais de 1500 horas de formação que abordam fundamentos de 
 desenvolvimento web, desenvolvimento, Front-end, Back-end, ciência da 
 computação, engenharia de software, metodologias ágeis e habilidades 
 comportamentais.
 <br/>
 <br/>
 Este código foi desenvolvido em grupo, utilizando metodologias agéis, como o Kanban,  
-para melhor perfomance e entrega da equipe, segue abaixo os membros da equipe.
+para melhor perfomance e entrega da equipe, segue abaixo os membros da equipe:
 
-Adson Gomes Oliveira (https://www.linkedin.com/in/adson-gomes-oliveira/);  
-Tatiana Bezerra (https://www.linkedin.com/in/tatiana-bezerra/);  
-Marcos Vinicius (https://www.linkedin.com/in/marcosvalencar/);  
-Gabriel Mendes (https://www.linkedin.com/in/gabriel-mendes-abreu/);  
-Jean Viegas (https://www.linkedin.com/in/viegasjean/);  
+- Adson Gomes Oliveira (https://www.linkedin.com/in/adson-gomes-oliveira/);  
+- Tatiana Bezerra (https://www.linkedin.com/in/tatiana-bezerra/);  
+- Marcos Vinicius (https://www.linkedin.com/in/marcosvalencar/);  
+- Gabriel Mendes (https://www.linkedin.com/in/gabriel-mendes-abreu/);  
+- Jean Viegas (https://www.linkedin.com/in/viegasjean/);  
 
 Aplicativo de receitas onde é possível encontrar receitas de comidas e bebidas, bem como ver os ingredientes necessários, favoritar, pausar e continuar receitas, e ver uma receita aleatória.
 
@@ -39,7 +38,7 @@ Aplicativo de receitas onde é possível encontrar receitas de comidas e bebidas
 ---
 
 ### Tecnologias Utilizadas no Desenvolvimento
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white) ![Chai](https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red) ![Sinon](https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon)  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Styled-Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)  
 
 ### Instruções
 <details>
@@ -58,7 +57,7 @@ git clone git@github.com:Adson-Gomes-Oliveira/Recipes-App.git
 
 
 ### Informações adicionais
-Versão apenas Mobile.
+Versão apenas Mobile. Desenvolvido com Node 16 e muita dedicação.
 
 ---
 
